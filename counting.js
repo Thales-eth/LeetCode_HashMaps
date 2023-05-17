@@ -134,3 +134,4 @@ function maxNumberOfBalloons(text) {
 
     return minCounter > maxCounter ? maxCounter : minCounter
 };
+
